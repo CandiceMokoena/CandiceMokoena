@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teballo Candice Mokoena.
 - 👀 I’m interested in IT and coding.
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m currently learning Software Development / Front-end development on SheCodes.
 - 💞️ I’m looking to collaborate on open-source projects and Innovative web application.
 - 📫 I am reachable on 
 - ⚡ Fun fact: I love reading books, my favorite being "The power of the subconscious mind".
